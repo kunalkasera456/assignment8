@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.solid{margin: 50px;
+    margin-left: 150px;
+ width: 200px;
+ border-style: solid;
+ border-width: 10px;
+ border-color: lightseagreen;   
+
+}
+.dashed{width: 200px; 
+    float: right;
+    margin: 50px;
+    margin-right: 150px;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: lightseagreen;   
+   }
+   .dotted{margin-left: 325px;
+    margin-right: 325px;
+       width: 200px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: lightseagreen;   
+   }
+   .grrove{margin: 50px;
+    margin-left: 150px;
+    width: 200px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: lightseagreen;   
+   }
+   .ridge{margin: 50px;
+    margin-right: 150px;
+    width: 200px;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: lightseagreen;   
+   }
+   .double{margin: 50px;
+    margin-left: 150px;
+    width: 200px;
+    border-style: double;
+    border-width: 10px;
+    border-color: lightseagreen;   
+   }
+   .none{border-style: none;
+       margin: 50px;
+    margin-right: 150px;
+    width: 200px;
+   }
+   .a{
+    padding: 20px;
+    text-align: center;
+}
+
+   .love{border-style: solid ;
+    border-top-color: green;
+    border-right-color: magenta;
+    border-bottom-color: blue;
+    border-left-color: crimson;
+    background-color: lightseagreen;
+    color: white;
+    padding: 10px;
+    text-align: justify;
+   }
+   footer{
+       padding: 20px 0px;
+       background-color: lightseagreen;
+   }
+   footer a{margin: 60px;
+    color: white;
+    
+   }
+  .facebook{
+      margin-left: 200px;
+  }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
